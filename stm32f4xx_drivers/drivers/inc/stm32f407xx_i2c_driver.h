@@ -1,4 +1,3 @@
-
 #ifndef INC_STM32F407XX_I2C_DRIVER_H_
 #define INC_STM32F407XX_I2C_DRIVER_H_
 
@@ -98,7 +97,7 @@ typedef struct
 #define I2C_EV_DATA_RCV         9
 
 /******************************************************************************************
- *								APIs supported by this driver
+ *			 	APIs supported by this driver
  *		 For more information about the APIs check the function definitions
  ******************************************************************************************/
 /*
