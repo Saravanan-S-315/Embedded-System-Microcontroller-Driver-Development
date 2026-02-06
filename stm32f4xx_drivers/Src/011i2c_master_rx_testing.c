@@ -4,8 +4,6 @@
 
 //extern void initialise_monitor_handles();
 
-
-
 #define MY_ADDR 0x61;
 
 #define SLAVE_ADDR  0x68
