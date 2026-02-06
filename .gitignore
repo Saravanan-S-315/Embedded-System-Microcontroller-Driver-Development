@@ -11,3 +11,5 @@ Release/
 *.o
 *.elf
 *.map
+# Ignore Windows batch files
+*.bat
